@@ -1,0 +1,17 @@
+{
+    "name": "CoopKit.Steam",
+    "rootNamespace": "CoopKit.Steam",
+    "references": [
+        "GUID:68bd7fdb68ef2684e982e8a9825b18a5",
+        "GUID:a80bef92231b4194cb6751ec5fc12988"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
