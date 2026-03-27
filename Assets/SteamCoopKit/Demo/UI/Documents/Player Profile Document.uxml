@@ -1,0 +1,6 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement style="flex-grow: 1; background-color: rgb(255, 255, 255); justify-content: center; padding-top: 64px; padding-right: 64px; padding-bottom: 64px; padding-left: 64px;">
+        <ui:Image source="project://database/Resources/unity_builtin_extra?fileID=10309&amp;guid=0000000000000000f000000000000000&amp;type=0#Default-Checker-Gray" style="flex-grow: 1;"/>
+        <ui:Label text="Name" style="font-size: 128px; -unity-text-align: upper-center;"/>
+    </ui:VisualElement>
+</ui:UXML>
